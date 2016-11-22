@@ -1,0 +1,9 @@
+fil = new Array();
+fil["0"]= "basics.html@@@The basics@@@...";
+fil["1"]= "first_steps.html@@@First Steps@@@Getting Started with Awesome Software 2.0...";
+fil["2"]= "reference.html@@@Reference@@@Reference material for when you need extra help...";
+fil["3"]= "references/keys.html@@@Frequently Used Shortcut Keys@@@Below are important key and shortcuts for using Awesome Software 2.0...";
+fil["4"]= "tasks/creatingaccount.html@@@Creating an account@@@In this section, you&apos;ll learn how to create an account with Awesome Software 2.0...";
+fil["5"]= "tasks/gettingstarted.html@@@Installation@@@You can easily set up Awesome Software 2.0 on your Windows or Mac computer. You&apos;ll need to install the software first as described in the following procedure...";
+fil["6"]= "topics/intro.html@@@Introduction@@@A brief introduction to Awesome Software 2.0...";
+fil["7"]= "topics/keys.html@@@Frequently Used Shortcut Keys@@@Below are important key and shortcuts for using Awesome Software 2.0...";

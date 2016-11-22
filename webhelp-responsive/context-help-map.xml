@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="concept_icj_lhh_1y" path="topics/intro.html"/>
+   <appContext helpID="topic_vwf_sk4_1y" path="first_steps.html"/>
+   <appContext helpID="task_v1h_vvc_1y" path="tasks/gettingstarted.html"/>
+   <appContext helpID="task_s3l_zyc_1y" path="tasks/creatingaccount.html"/>
+   <appContext helpID="topic_qzw_zk4_1y" path="reference.html"/>
+   <appContext helpID="reference_m5n_rsh_1y" path="topics/keys.html"/>
+</map>
